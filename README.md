@@ -8,7 +8,7 @@
 </div>
 
 ---
-my portfolio https://hussein-ibrahim.lovable.app
+- my portfolio https://hussein-ibrahim.lovable.app
 ---
 
 ### 👨‍💻 About Me
