@@ -1,6 +1,6 @@
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+an+AI+Integration+Developer;Bridging+the+gap+between+AI+and+Frontends;Training+Deep+Learning+Models;Orchestrating+n8n+Automations" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+an+AI+Developer;Bridging+the+gap+between+AI+and+Frontends;Training+Deep+Learning+Models;Orchestrating+n8n+Automations" alt="Typing Animation" />
 </div>
 
 <div align="center">
