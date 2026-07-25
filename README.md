@@ -16,8 +16,8 @@ I am a Computer Science graduate from Benha National University specializing in 
 
 - 🧠 **Focus:** AI integration, machine learning pipelines, and data preprocessing.
 - ⚙️ **Workflow:** Orchestrating backend automations and server management using **n8n**.
-- 🎨 **Design:** Prototyping intuitive mobile and web user interfaces in **Figma**.
-- 👀 **Current Interest:** Deep learning workflows on Kaggle and fundamental computer vision applications.
+- 🎨 **Design:** Prototyping intuitive mobile and web user interfaces.
+- 👀 **Current Interest:** Deep learning models on Kaggle and fundamentals of computer vision.
 
 ---
 
