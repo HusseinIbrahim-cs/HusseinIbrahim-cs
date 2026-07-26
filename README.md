@@ -66,7 +66,7 @@ I am a Computer Science graduate from Benha National University specializing in 
 
 ### 🎓 Education & Training
 
-* 🎓 **B.S. Computer Science** - Benha National University (GPA: 3.38)
+* 🎓 **B.S. Computer Science** - Benha National University (GPA: 3.46)
 * 🤖 **AI & ML Track** - National Telecommunication Institute (NTI)
 * 🐍 **Python for ML** - BNU Summer Training Program
 * 💻 **Full Stack Web Development** - Meta Classroom Diploma
@@ -76,12 +76,10 @@ I am a Computer Science graduate from Benha National University specializing in 
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME below -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinIbrahim-cs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME below -->
   <img src="https://github-readme-stats.vercel.app/api?username=HusseinIbrahim-cs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinIbrahim-cs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
@@ -90,7 +88,6 @@ I am a Computer Science graduate from Benha National University specializing in 
 
 ### 🐍 Contribution Graph Animation
 
-<!-- To make this snake work, you need to set up a GitHub Action. See instructions below! -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusseinIbrahim-cs/HusseinIbrahim-cs/output/github-contribution-grid-snake-dark.svg">
